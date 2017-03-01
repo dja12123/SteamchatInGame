@@ -55,7 +55,7 @@ namespace SteamChat
 		private void onConnected(SteamClient.ConnectedCallback callback)
 		{
 			byte[] sentryHash = null;
-			if (File.Exists(SteamChatCore.DIR + "sentry.bin"))
+			if (File.Exists(SteamChatCore.DIR + "\\sentry.bin"))
 			{
 				// if we have a saved sentry file, read and SHA1 hash it
 				byte[] sentryFile = File.ReadAllBytes(SteamChatCore.DIR + "\\sentry.bin");
