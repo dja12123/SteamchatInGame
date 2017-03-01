@@ -1,0 +1,34 @@
+C:\Users\dja12123\Documents\Visual Studio 2015\Projects\ConsoleApplication2\SteamChat\bin\Debug\SteamChat.exe.config
+C:\Users\dja12123\Documents\Visual Studio 2015\Projects\ConsoleApplication2\SteamChat\bin\Debug\SteamChat.exe
+C:\Users\dja12123\Documents\Visual Studio 2015\Projects\ConsoleApplication2\SteamChat\bin\Debug\SteamChat.pdb
+C:\Users\dja12123\Documents\Visual Studio 2015\Projects\ConsoleApplication2\SteamChat\obj\Debug\SteamChat.csprojResolveAssemblyReference.cache
+C:\Users\dja12123\Documents\Visual Studio 2015\Projects\ConsoleApplication2\SteamChat\obj\Debug\SteamChat.chatForm.resources
+C:\Users\dja12123\Documents\Visual Studio 2015\Projects\ConsoleApplication2\SteamChat\obj\Debug\SteamChat.Properties.Resources.resources
+C:\Users\dja12123\Documents\Visual Studio 2015\Projects\ConsoleApplication2\SteamChat\obj\Debug\SteamChat.csproj.GenerateResource.Cache
+C:\Users\dja12123\Documents\Visual Studio 2015\Projects\ConsoleApplication2\SteamChat\obj\Debug\SteamChat.exe
+C:\Users\dja12123\Documents\Visual Studio 2015\Projects\ConsoleApplication2\SteamChat\obj\Debug\SteamChat.pdb
+C:\Users\dja12123\Documents\Visual Studio 2015\Projects\ConsoleApplication2\SteamChat\bin\Debug\Resources\NanumGothicBold.ttf
+C:\Users\dja12123\Documents\Visual Studio 2015\Projects\ConsoleApplication2\SteamChat\obj\Debug\SteamChat.mainForm.resources
+C:\Users\dja12123\Documents\Visual Studio 2015\Projects\ConsoleApplication2\SteamChat\bin\Debug\protobuf-net.dll
+C:\Users\dja12123\Documents\Visual Studio 2015\Projects\ConsoleApplication2\SteamChat\bin\Debug\SteamKit2.dll
+C:\Users\dja12123\Documents\Visual Studio 2015\Projects\ConsoleApplication2\SteamChat\bin\Debug\protobuf-net.pdb
+C:\Users\dja12123\Documents\Visual Studio 2015\Projects\ConsoleApplication2\SteamChat\bin\Debug\protobuf-net.xml
+C:\Users\dja12123\Documents\Visual Studio 2015\Projects\ConsoleApplication2\SteamChat\bin\Debug\SteamKit2.xml
+C:\Users\dja12123\Documents\Visual Studio 2015\Projects\ConsoleApplication2\SteamChat\obj\Debug\SteamChat.LoginForm.resources
+G:\SteamChat\SteamChat\bin\Debug\SteamChat.exe.config
+G:\SteamChat\SteamChat\obj\Debug\SteamChat.exe
+G:\SteamChat\SteamChat\obj\Debug\SteamChat.pdb
+G:\SteamChat\SteamChat\bin\Debug\SteamChat.exe
+G:\SteamChat\SteamChat\bin\Debug\SteamChat.pdb
+G:\SteamChat\SteamChat\bin\Debug\protobuf-net.dll
+G:\SteamChat\SteamChat\bin\Debug\SteamKit2.dll
+G:\SteamChat\SteamChat\bin\Debug\protobuf-net.pdb
+G:\SteamChat\SteamChat\bin\Debug\protobuf-net.xml
+G:\SteamChat\SteamChat\bin\Debug\SteamKit2.xml
+G:\SteamChat\SteamChat\obj\Debug\SteamChat.csprojResolveAssemblyReference.cache
+G:\SteamChat\SteamChat\obj\Debug\SteamChat.LoginForm.resources
+G:\SteamChat\SteamChat\obj\Debug\SteamChat.MainForm.resources
+G:\SteamChat\SteamChat\obj\Debug\SteamChat.Properties.Resources.resources
+G:\SteamChat\SteamChat\obj\Debug\SteamChat.csproj.GenerateResource.Cache
+G:\SteamChat\SteamChat\obj\Debug\SteamChat.SettingForm.resources
+G:\SteamChat\SteamChat\obj\Debug\SteamChat.ChatForm.resources

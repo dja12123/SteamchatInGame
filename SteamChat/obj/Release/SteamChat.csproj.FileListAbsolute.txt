@@ -1,0 +1,16 @@
+G:\SteamChat\SteamChat\bin\Release\SteamChat.exe.config
+G:\SteamChat\SteamChat\bin\Release\SteamChat.exe
+G:\SteamChat\SteamChat\bin\Release\SteamChat.pdb
+G:\SteamChat\SteamChat\bin\Release\protobuf-net.dll
+G:\SteamChat\SteamChat\bin\Release\SteamKit2.dll
+G:\SteamChat\SteamChat\bin\Release\protobuf-net.pdb
+G:\SteamChat\SteamChat\bin\Release\protobuf-net.xml
+G:\SteamChat\SteamChat\bin\Release\SteamKit2.xml
+G:\SteamChat\SteamChat\obj\Release\SteamChat.LoginForm.resources
+G:\SteamChat\SteamChat\obj\Release\SteamChat.MainForm.resources
+G:\SteamChat\SteamChat\obj\Release\SteamChat.Properties.Resources.resources
+G:\SteamChat\SteamChat\obj\Release\SteamChat.SettingForm.resources
+G:\SteamChat\SteamChat\obj\Release\SteamChat.csproj.GenerateResource.Cache
+G:\SteamChat\SteamChat\obj\Release\SteamChat.exe
+G:\SteamChat\SteamChat\obj\Release\SteamChat.pdb
+G:\SteamChat\SteamChat\obj\Release\SteamChat.csprojResolveAssemblyReference.cache
