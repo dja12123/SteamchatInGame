@@ -44,9 +44,11 @@ namespace SteamChat
 		}
 		private void applyButtonClick(object sender, EventArgs e)
 		{
-			Configuration configuration = ConfigurationManager.OpenExeConfiguration(SteamChatCore.DIR + "\\SteamChat.exe.config");
+			Configuration configuration = ConfigurationManager.OpenExeConfiguration(SteamChatCore.DIR + "\\SteamChat.exe");
+			
 			int x = (int)this.screenXnumberBox.Value;
 			int y = (int)this.screenYnumberBox.Value;
+			Console.WriteLine(configuration.FilePath);
 			configuration.AppSettings.Settings["ScreenPositionX"].Value = x.ToString();
 			configuration.AppSettings.Settings["ScreenPositionY"].Value = y.ToString();
 			this.core.ChatForm.ChatFormLocation = new Point(x, y);
@@ -58,7 +60,7 @@ namespace SteamChat
 			configuration.AppSettings.Settings["MsgHeight"].Value = this.MsgHeightNumbox.Value.ToString();
 			configuration.AppSettings.Settings["MsgShowtime"].Value = this.MsgShowtimeNumbox.Value.ToString();
 			configuration.Save(ConfigurationSaveMode.Full, true);
-			ConfigurationManager.RefreshSection("appSettings");
+			ConfigurationManager.RefreshSection(SteamChatCore.DIR + "\\SteamChat.exe");
 		}
 		private void restoreButtonClick(object sender, EventArgs e)
 		{

@@ -183,6 +183,7 @@ namespace SteamChat
 			}
 			if(this.showOfflineFriendCheck.Checked)
 			{
+				this.userList.Add(null);
 				chatObjSrc.Add("####### offline friends #######");
 				for (int i = 0; i < this.core.Steam.SteamFriends.GetFriendCount(); i++)
 				{

@@ -15,7 +15,7 @@ namespace SteamChat
 {
 	public class SteamChatCore
 	{
-		public static readonly string VERSION = "v0.1.7 beta";
+		public static readonly string VERSION = "v0.1.9 beta";
 		public static readonly string DIR = System.IO.Path.GetDirectoryName(Application.ExecutablePath);
 		private static SteamChatCore core;
 		private ManualResetEvent coreResetEvent;

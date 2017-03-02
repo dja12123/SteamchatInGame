@@ -42,18 +42,22 @@ namespace SteamChat
 
 		private void chatMessageCallback(SteamFriends.FriendMsgCallback callback)
 		{
-			foreach (ChatMember chattingRoom in this.chattingRooms)
+			if(callback.Message != null && callback.Message != "")
 			{
-				if(chattingRoom.ID == callback.Sender)
+				foreach (ChatMember chattingRoom in this.chattingRooms)
 				{
-					return;
+					if (chattingRoom.ID == callback.Sender)
+					{
+						return;
+					}
 				}
+				this.core.ChatForm.Invoke(new MethodInvoker(delegate () {
+					ChatMember member = new UserChatMember(this.core, callback.Sender);
+					this.core.ChatForm.sendSystemMessage("new contact from " + member.Name);
+					this.core.ChatForm.joinChat(member);
+				}));
 			}
-			this.core.ChatForm.Invoke(new MethodInvoker(delegate () {
-				ChatMember member = new UserChatMember(this.core, callback.Sender);
-				this.core.ChatForm.sendSystemMessage("new contact from " + member.Name);
-				this.core.ChatForm.joinChat(member);
-			}));
+			
 		}
 		public void joinChat(ChatMember member, ChatListenCallback callback)
 		{
